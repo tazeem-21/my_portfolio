@@ -587,7 +587,7 @@ section {
   }
 
   .aboutProfile {
-    max-width: 12rem; /* ✅ much smaller on phones */
+    max-width: 10rem; /* ✅ much smaller on phones */
   }
 }
 
